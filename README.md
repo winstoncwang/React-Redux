@@ -34,3 +34,9 @@ Tutorial 2.31
     action creator for fetching posts
 
 -----------------------------------------------------------
+
+Tutorial 2.4
+
+    use redux-thunk middleware
+
+-----------------------------------------------------------
