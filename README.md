@@ -40,3 +40,9 @@ Tutorial 2.4
     use redux-thunk middleware
 
 -----------------------------------------------------------
+
+Tutorial 2.5
+
+    render out text and dispatch the correct data from response
+
+-----------------------------------------------------------
