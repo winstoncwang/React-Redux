@@ -46,3 +46,9 @@ Tutorial 2.5
     render out text and dispatch the correct data from response
 
 -----------------------------------------------------------
+
+Tutorial 2.6
+
+    add userheader component and add action, reducers to the call
+
+-----------------------------------------------------------
