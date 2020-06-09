@@ -58,3 +58,9 @@ Tutorial 2.7
     add lodash memoize to prevent repeated api calls
 
 -----------------------------------------------------------
+
+Tutorial 2.8
+
+    using unique userId call to api
+
+-----------------------------------------------------------
