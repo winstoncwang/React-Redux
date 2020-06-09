@@ -52,3 +52,9 @@ Tutorial 2.6
     add userheader component and add action, reducers to the call
 
 -----------------------------------------------------------
+
+Tutorial 2.7
+
+    add lodash memoize to prevent repeated api calls
+
+-----------------------------------------------------------
